@@ -1,0 +1,39 @@
+
+#pogrubienie_karw{
+    font-size: 34px;
+    color: #855ed2;
+    font-weight: bold;
+}
+
+#pochylona_karw {
+    font-size: 39pt;
+    color: #e9c26e;
+    font-style: oblique;
+}
+#index_gorny_karw {
+    font-size: 1.4cm;
+    color: #99901e;
+    text-transform: uppercase;
+}
+
+#index_dolny_karw {
+    font-size: 2.3cm;
+    color: #35f4e6;
+    text-transform: lowercase;
+}
+
+#mono_karw {
+    font-size: 44px;
+    color: #19E06E;
+    font-family: monospace;
+}
+
+#powiekszenie_karw {
+    color: #5340A0;
+    transform: scale(1.25);
+    padding-left: 100px;
+}
+#pomniejszenie_karw {
+    color: rgb(72, 64, 24);
+    transform: scale(0.75);
+}
